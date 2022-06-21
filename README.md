@@ -1,3 +1,9 @@
+## Details
+
+This is a starter template for NextJs Typescript MUI v5. If interested in creating the template yourself, please see the associated gist for explanation on steps to crete this template yourself .. (https://gist.github.com/tek-shinobi/1626e10183b25adab4dc290e336ddf24)
+
+##
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
